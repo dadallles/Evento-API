@@ -1,0 +1,9 @@
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Core\bin\Debug\netcoreapp2.1\Evento.Core.deps.json
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Core\bin\Debug\netcoreapp2.1\Evento.Core.dll
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Core\bin\Debug\netcoreapp2.1\Evento.Core.pdb
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Core\obj\Debug\netcoreapp2.1\Evento.Core.csprojAssemblyReference.cache
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Core\obj\Debug\netcoreapp2.1\Evento.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Core\obj\Debug\netcoreapp2.1\Evento.Core.AssemblyInfoInputs.cache
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Core\obj\Debug\netcoreapp2.1\Evento.Core.AssemblyInfo.cs
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Core\obj\Debug\netcoreapp2.1\Evento.Core.dll
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Core\obj\Debug\netcoreapp2.1\Evento.Core.pdb

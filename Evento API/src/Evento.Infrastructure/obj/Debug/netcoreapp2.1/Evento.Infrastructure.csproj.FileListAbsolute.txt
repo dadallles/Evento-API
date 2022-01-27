@@ -1,0 +1,12 @@
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Infrastructure\bin\Debug\netcoreapp2.1\Evento.Infrastructure.deps.json
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Infrastructure\bin\Debug\netcoreapp2.1\Evento.Infrastructure.dll
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Infrastructure\bin\Debug\netcoreapp2.1\Evento.Infrastructure.pdb
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Infrastructure\bin\Debug\netcoreapp2.1\Evento.Core.dll
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Infrastructure\bin\Debug\netcoreapp2.1\Evento.Core.pdb
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Infrastructure\obj\Debug\netcoreapp2.1\Evento.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Infrastructure\obj\Debug\netcoreapp2.1\Evento.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Infrastructure\obj\Debug\netcoreapp2.1\Evento.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Infrastructure\obj\Debug\netcoreapp2.1\Evento.Infrastructure.AssemblyInfo.cs
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Infrastructure\obj\Debug\netcoreapp2.1\Evento.Infrastructure.csproj.CopyComplete
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Infrastructure\obj\Debug\netcoreapp2.1\Evento.Infrastructure.dll
+C:\Users\Dawid\Documents\GIT\ASP-.Net-Core-Learning\Evento API\src\Evento.Infrastructure\obj\Debug\netcoreapp2.1\Evento.Infrastructure.pdb

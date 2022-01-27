@@ -1,0 +1,471 @@
+2020-05-22 22:45:24.1055|INFO|Evento.Infrastructure.Services.DataInitializer|Inicjalizacja danych...
+2020-05-22 22:45:24.1448|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-22 22:45:24.1448|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-22 22:45:24.1448|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzeni: user, admin
+2020-05-22 22:45:24.1534|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:45:24.1534|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:45:24.1534|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 1
+2020-05-22 22:45:24.1534|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:45:24.1534|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:45:24.1534|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 2
+2020-05-22 22:45:24.1534|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:45:24.1534|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:45:24.1534|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 3
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 4
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 5
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 6
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 7
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 8
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 9
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 10
+2020-05-22 22:45:24.1676|INFO|Evento.Infrastructure.Services.DataInitializer|Zainicjalzowano dane wstepne.
+2020-05-22 22:45:24.6708|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:65059/  0
+2020-05-22 22:45:24.6708|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:44333/events  
+2020-05-22 22:45:24.7094|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 42.6257ms 200 
+2020-05-22 22:45:24.8711|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Events"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.String) on controller Evento.Api.Controllers.EventsController (Evento.Api).
+2020-05-22 22:45:24.8941|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Evento.Api.Controllers.EventsController.Get (Evento.Api) - Validation state: Valid
+2020-05-22 22:45:24.8941|INFO|Evento.Infrastructure.Services.EventService|Catching events
+2020-05-22 22:45:24.9381|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Evento.Api.Controllers.EventsController.Get (Evento.Api), returned result Microsoft.AspNetCore.Mvc.JsonResult in 39.9794ms.
+2020-05-22 22:45:24.9381|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value of type 'System.Collections.Generic.List`1[[Evento.Infrastructure.DTO.EventDto, Evento.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2020-05-22 22:45:25.0134|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Evento.Api.Controllers.EventsController.Get (Evento.Api) in 135.0775ms
+2020-05-22 22:45:25.0134|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 356.6541ms 200 application/json; charset=utf-8
+2020-05-22 22:47:24.9537|INFO|Evento.Infrastructure.Services.DataInitializer|Inicjalizacja danych...
+2020-05-22 22:47:24.9902|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-22 22:47:24.9988|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-22 22:47:24.9988|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzeni: user, admin
+2020-05-22 22:47:24.9988|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:47:24.9988|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 1
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 2
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 3
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 4
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 5
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 6
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 7
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 8
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 9
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:47:25.0116|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:47:25.0271|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 10
+2020-05-22 22:47:25.0271|INFO|Evento.Infrastructure.Services.DataInitializer|Zainicjalzowano dane wstepne.
+2020-05-22 22:47:25.4363|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:44333/events  
+2020-05-22 22:47:25.4363|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:65059/  0
+2020-05-22 22:47:25.4955|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 65.9778ms 200 
+2020-05-22 22:47:25.6815|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Events"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.String) on controller Evento.Api.Controllers.EventsController (Evento.Api).
+2020-05-22 22:47:25.7047|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Evento.Api.Controllers.EventsController.Get (Evento.Api) - Validation state: Valid
+2020-05-22 22:47:25.7047|INFO|Evento.Infrastructure.Services.EventService|Catching events
+2020-05-22 22:47:25.7504|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Evento.Api.Controllers.EventsController.Get (Evento.Api), returned result Microsoft.AspNetCore.Mvc.JsonResult in 41.6872ms.
+2020-05-22 22:47:25.7504|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value of type 'System.Collections.Generic.List`1[[Evento.Infrastructure.DTO.EventDto, Evento.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2020-05-22 22:47:25.8186|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Evento.Api.Controllers.EventsController.Get (Evento.Api) in 131.3077ms
+2020-05-22 22:47:25.8269|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 405.7373ms 200 application/json; charset=utf-8
+2020-05-22 22:48:25.4622|INFO|Evento.Infrastructure.Services.DataInitializer|Inicjalizacja danych...
+2020-05-22 22:48:25.5000|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-22 22:48:25.5000|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-22 22:48:25.5000|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzeni: user, admin
+2020-05-22 22:48:25.5000|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 0
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 1
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 2
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 3
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 4
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 5
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:48:25.5123|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:48:25.5277|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 6
+2020-05-22 22:48:25.5277|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:48:25.5277|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:48:25.5277|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 7
+2020-05-22 22:48:25.5277|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:48:25.5277|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:48:25.5277|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 8
+2020-05-22 22:48:25.5277|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:48:25.5277|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:48:25.5277|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 9
+2020-05-22 22:48:25.5277|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 22:48:25.5277|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 22:48:25.5277|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 10
+2020-05-22 22:48:25.5277|INFO|Evento.Infrastructure.Services.DataInitializer|Zainicjalzowano dane wstepne.
+2020-05-22 22:48:26.0188|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:65059/  0
+2020-05-22 22:48:26.0188|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:44333/events  
+2020-05-22 22:48:26.0726|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 48.601ms 200 
+2020-05-22 22:48:26.2263|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Events"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.String) on controller Evento.Api.Controllers.EventsController (Evento.Api).
+2020-05-22 22:48:26.2509|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Evento.Api.Controllers.EventsController.Get (Evento.Api) - Validation state: Valid
+2020-05-22 22:48:26.2509|INFO|Evento.Infrastructure.Services.EventService|Catching events
+2020-05-22 22:48:26.3004|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Evento.Api.Controllers.EventsController.Get (Evento.Api), returned result Microsoft.AspNetCore.Mvc.JsonResult in 44.344ms.
+2020-05-22 22:48:26.3099|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value of type 'System.Collections.Generic.List`1[[Evento.Infrastructure.DTO.EventDto, Evento.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2020-05-22 22:48:26.3614|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Evento.Api.Controllers.EventsController.Get (Evento.Api) in 129.2712ms
+2020-05-22 22:48:26.3614|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 354.6751ms 200 application/json; charset=utf-8
+2020-05-22 23:05:01.5287|INFO|Evento.Infrastructure.Services.DataInitializer|Inicjalizacja danych...
+2020-05-22 23:05:01.5716|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-22 23:05:01.5767|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-22 23:05:01.5767|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzeni: user, admin
+2020-05-22 23:05:01.5767|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:01.5942|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:01.5942|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 0
+2020-05-22 23:05:01.5942|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:01.5942|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:01.5942|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 1
+2020-05-22 23:05:01.5942|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:01.5942|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 2
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 3
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 4
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 5
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 6
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 7
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 8
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 9
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:01.6056|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:01.6210|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 10
+2020-05-22 23:05:01.6210|INFO|Evento.Infrastructure.Services.DataInitializer|Zainicjalzowano dane wstepne.
+2020-05-22 23:05:02.0814|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:65059/  0
+2020-05-22 23:05:02.0814|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:44333/events  
+2020-05-22 23:05:02.1231|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 42.7402ms 200 
+2020-05-22 23:05:02.2833|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Events"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.String) on controller Evento.Api.Controllers.EventsController (Evento.Api).
+2020-05-22 23:05:02.3090|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Evento.Api.Controllers.EventsController.Get (Evento.Api) - Validation state: Valid
+2020-05-22 23:05:02.3090|INFO|Evento.Infrastructure.Services.EventService|Catching events
+2020-05-22 23:05:02.3515|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Evento.Api.Controllers.EventsController.Get (Evento.Api), returned result Microsoft.AspNetCore.Mvc.JsonResult in 38.2391ms.
+2020-05-22 23:05:02.3615|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value of type 'System.Collections.Generic.List`1[[Evento.Infrastructure.DTO.EventDto, Evento.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2020-05-22 23:05:02.4341|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Evento.Api.Controllers.EventsController.Get (Evento.Api) in 143.6131ms
+2020-05-22 23:05:02.4643|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 365.9648ms 200 application/json; charset=utf-8
+2020-05-22 23:05:54.6088|INFO|Evento.Infrastructure.Services.DataInitializer|Inicjalizacja danych...
+2020-05-22 23:05:54.6464|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-22 23:05:54.6464|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-22 23:05:54.6464|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzeni: user, admin
+2020-05-22 23:05:54.6530|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:54.6530|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:54.6530|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 0
+2020-05-22 23:05:54.6530|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:54.6530|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:54.6530|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 1
+2020-05-22 23:05:54.6530|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:54.6530|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:54.6530|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 2
+2020-05-22 23:05:54.6530|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:54.6530|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 3
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 4
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 5
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 6
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 7
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 8
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 9
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 10
+2020-05-22 23:05:54.6685|INFO|Evento.Infrastructure.Services.DataInitializer|Zainicjalzowano dane wstepne.
+2020-05-22 23:05:55.1696|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:65059/  0
+2020-05-22 23:05:55.1696|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:44333/events  
+2020-05-22 23:05:55.2089|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 46.2111ms 200 
+2020-05-22 23:05:55.3809|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Events"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.String) on controller Evento.Api.Controllers.EventsController (Evento.Api).
+2020-05-22 23:05:55.4063|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Evento.Api.Controllers.EventsController.Get (Evento.Api) - Validation state: Valid
+2020-05-22 23:05:55.4063|INFO|Evento.Infrastructure.Services.EventService|Catching events
+2020-05-22 23:05:55.4473|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Evento.Api.Controllers.EventsController.Get (Evento.Api), returned result Microsoft.AspNetCore.Mvc.JsonResult in 36.5066ms.
+2020-05-22 23:05:55.4563|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value of type 'System.Collections.Generic.List`1[[Evento.Infrastructure.DTO.EventDto, Evento.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2020-05-22 23:05:55.5098|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Evento.Api.Controllers.EventsController.Get (Evento.Api) in 123.4545ms
+2020-05-22 23:05:55.5156|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 355.2974ms 200 application/json; charset=utf-8
+2020-05-22 23:06:49.1572|INFO|Evento.Infrastructure.Services.DataInitializer|Inicjalizacja danych...
+2020-05-22 23:06:49.2006|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-22 23:06:49.2006|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-22 23:06:49.2006|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzeni: user, admin
+2020-05-22 23:06:49.2006|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:06:49.2199|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:06:49.2199|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 0
+2020-05-22 23:06:49.2199|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:06:49.2199|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:06:49.2199|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 1
+2020-05-22 23:06:49.2199|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:06:49.2199|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:06:49.2199|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 2
+2020-05-22 23:06:49.2199|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:06:49.2199|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:06:49.2199|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 3
+2020-05-22 23:06:49.2199|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:06:49.2199|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 4
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 5
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 6
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 7
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 8
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 9
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 10
+2020-05-22 23:06:49.2297|INFO|Evento.Infrastructure.Services.DataInitializer|Zainicjalzowano dane wstepne.
+2020-05-22 23:06:49.6853|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:65059/  0
+2020-05-22 23:06:49.6853|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:44333/events  
+2020-05-22 23:06:49.7456|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 54.8792ms 200 
+2020-05-22 23:06:49.9387|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Events"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.String) on controller Evento.Api.Controllers.EventsController (Evento.Api).
+2020-05-22 23:06:49.9737|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Evento.Api.Controllers.EventsController.Get (Evento.Api) - Validation state: Valid
+2020-05-22 23:06:50.0371|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Evento.Api.Controllers.EventsController.Get (Evento.Api) in 89.3943ms
+2020-05-22 23:06:50.1138|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 435.9747ms 400 application/json
+2020-05-22 23:07:14.9751|INFO|Evento.Infrastructure.Services.DataInitializer|Inicjalizacja danych...
+2020-05-22 23:07:15.0125|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-22 23:07:15.0125|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-22 23:07:15.0125|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzeni: user, admin
+2020-05-22 23:07:15.0125|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:07:15.0335|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:07:15.0335|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 0
+2020-05-22 23:07:15.0335|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:07:15.0335|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:07:15.0335|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 1
+2020-05-22 23:07:15.0335|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:07:15.0335|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:07:15.0335|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 2
+2020-05-22 23:07:15.0335|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:07:15.0335|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:07:15.0335|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 3
+2020-05-22 23:07:15.0335|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:07:15.0335|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 4
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 5
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 6
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 7
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 8
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 9
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 10
+2020-05-22 23:07:15.0432|INFO|Evento.Infrastructure.Services.DataInitializer|Zainicjalzowano dane wstepne.
+2020-05-22 23:07:15.4077|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:44333/events  
+2020-05-22 23:07:15.4077|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:65059/  0
+2020-05-22 23:07:15.4926|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 70.8468ms 200 
+2020-05-22 23:07:15.6581|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Events"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.String) on controller Evento.Api.Controllers.EventsController (Evento.Api).
+2020-05-22 23:07:15.6873|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Evento.Api.Controllers.EventsController.Get (Evento.Api) - Validation state: Valid
+2020-05-22 23:07:15.6873|INFO|Evento.Infrastructure.Services.EventService|Catching events
+2020-05-22 23:07:15.7297|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Evento.Api.Controllers.EventsController.Get (Evento.Api), returned result Microsoft.AspNetCore.Mvc.JsonResult in 38.2288ms.
+2020-05-22 23:07:15.7393|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value of type 'System.Collections.Generic.List`1[[Evento.Infrastructure.DTO.EventDto, Evento.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2020-05-22 23:07:15.7918|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Evento.Api.Controllers.EventsController.Get (Evento.Api) in 128.2037ms
+2020-05-22 23:07:15.7965|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 397.7238ms 200 application/json; charset=utf-8
+2020-05-23 17:32:56.6805|INFO|Evento.Infrastructure.Services.DataInitializer|Inicjalizacja danych...
+2020-05-23 17:32:56.7186|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-23 17:32:56.7186|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-23 17:32:56.7186|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzeni: user, admin
+2020-05-23 17:32:56.7186|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:32:56.7186|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 0
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 1
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 2
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 3
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 4
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 5
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 6
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 7
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 8
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 9
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:32:56.7340|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 10
+2020-05-23 17:32:56.7469|INFO|Evento.Infrastructure.Services.DataInitializer|Zainicjalzowano dane wstepne.
+2020-05-23 17:32:57.2262|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:65059/  0
+2020-05-23 17:32:57.2262|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:44333/events  
+2020-05-23 17:32:57.2826|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 50.9716ms 200 
+2020-05-23 17:32:57.4723|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Events"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.String) on controller Evento.Api.Controllers.EventsController (Evento.Api).
+2020-05-23 17:32:57.4953|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Evento.Api.Controllers.EventsController.Get (Evento.Api) - Validation state: Valid
+2020-05-23 17:32:57.5004|INFO|Evento.Infrastructure.Services.EventService|Catching events
+2020-05-23 17:32:57.5399|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Evento.Api.Controllers.EventsController.Get (Evento.Api), returned result Microsoft.AspNetCore.Mvc.JsonResult in 40.1453ms.
+2020-05-23 17:32:57.5488|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value of type 'System.Collections.Generic.List`1[[Evento.Infrastructure.DTO.EventDto, Evento.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2020-05-23 17:32:57.6163|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Evento.Api.Controllers.EventsController.Get (Evento.Api) in 136.7279ms
+2020-05-23 17:32:57.6245|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 403.7475ms 200 application/json; charset=utf-8
+2020-05-23 17:36:09.7762|INFO|Evento.Infrastructure.Services.DataInitializer|Inicjalizacja danych...
+2020-05-23 17:36:09.8134|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-23 17:36:09.8134|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-23 17:36:09.8134|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzeni: user, admin
+2020-05-23 17:36:09.8134|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:36:09.8134|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 0
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 1
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 2
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 3
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 4
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 5
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 6
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 7
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 8
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 9
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:36:09.8280|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 10
+2020-05-23 17:36:09.8410|INFO|Evento.Infrastructure.Services.DataInitializer|Zainicjalzowano dane wstepne.
+2020-05-23 17:36:10.2942|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:65059/  0
+2020-05-23 17:36:10.2942|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:44333/events  
+2020-05-23 17:36:10.3931|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 81.6633ms 200 
+2020-05-23 17:36:10.6133|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Events"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.String) on controller Evento.Api.Controllers.EventsController (Evento.Api).
+2020-05-23 17:36:10.6480|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Evento.Api.Controllers.EventsController.Get (Evento.Api) - Validation state: Valid
+2020-05-23 17:36:10.6524|INFO|Evento.Infrastructure.Services.EventService|Catching events
+2020-05-23 17:36:10.6918|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Evento.Api.Controllers.EventsController.Get (Evento.Api), returned result Microsoft.AspNetCore.Mvc.JsonResult in 38.6021ms.
+2020-05-23 17:36:10.7000|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value of type 'System.Collections.Generic.List`1[[Evento.Infrastructure.DTO.EventDto, Evento.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2020-05-23 17:36:10.7762|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Evento.Api.Controllers.EventsController.Get (Evento.Api) in 154.1946ms
+2020-05-23 17:36:10.7818|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 500.8364ms 200 application/json; charset=utf-8
+2020-05-23 17:45:57.1084|INFO|Evento.Infrastructure.Services.DataInitializer|Inicjalizacja danych...
+2020-05-23 17:45:57.1492|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-23 17:45:57.1538|INFO|Evento.Infrastructure.Services.UserService|Register account
+2020-05-23 17:45:57.1538|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzeni: user, admin
+2020-05-23 17:45:57.1538|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:45:57.1538|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:45:57.1538|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 0
+2020-05-23 17:45:57.1538|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:45:57.1538|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 1
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 2
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 3
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 4
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 5
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 6
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 7
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 8
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 9
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Create event
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.EventService|Add ticket
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.DataInitializer|Utworzono: Wydarzenie 10
+2020-05-23 17:45:57.1683|INFO|Evento.Infrastructure.Services.DataInitializer|Zainicjalzowano dane wstepne.
+2020-05-23 17:45:57.6152|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:44333/events  
+2020-05-23 17:45:57.6152|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:65059/  0
+2020-05-23 17:45:57.6803|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 68.8883ms 200 
+2020-05-23 17:45:57.8657|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Events"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.String) on controller Evento.Api.Controllers.EventsController (Evento.Api).
+2020-05-23 17:45:57.8920|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Evento.Api.Controllers.EventsController.Get (Evento.Api) - Validation state: Valid
+2020-05-23 17:45:57.8920|INFO|Evento.Infrastructure.Services.EventService|Catching events
+2020-05-23 17:45:57.9351|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Evento.Api.Controllers.EventsController.Get (Evento.Api), returned result Microsoft.AspNetCore.Mvc.JsonResult in 38.6893ms.
+2020-05-23 17:45:57.9351|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value of type 'System.Collections.Generic.List`1[[Evento.Infrastructure.DTO.EventDto, Evento.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2020-05-23 17:45:58.0158|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Evento.Api.Controllers.EventsController.Get (Evento.Api) in 144.2359ms
+2020-05-23 17:45:58.0158|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 416.1806ms 200 application/json; charset=utf-8
